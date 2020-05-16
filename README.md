@@ -10,14 +10,12 @@ ___
 
 ## ATTENTION !
 
-Attention : n'installez PAS cette application sur un serveur accessible via Internet ! <br/>
+Attention : **n'installez PAS cette application dans un dossier public de votre hébergeur ou sur des serveurs Internet** ! <br/>
 DVWA signife Damn Vulnerable Web Application : les failles qui y sont contenues pourrait permettre de faire des ravages sur un serveur. <br/>
 Installez cette application que sur votre localhost à des fins de tests, ou encore mieux, sur une VM.
 
 ## Avertissement
 Nous déclinons toute responsabilité quant à la manière dont quiconque utilise cette application (DVWA). Nous avons précisé les objectifs de la demande et elle ne doit pas être utilisée à des fins malveillantes. Nous avons donné des avertissements et pris des mesures pour empêcher les utilisateurs d'installer DVWA sur des serveurs Web en direct. Si votre serveur Web est compromis via une installation de DVWA, ce n'est pas notre responsabilité, c'est la responsabilité de la personne / des personnes qui l'a téléchargé et installé.
-
-___
 
 ## Licence
 
@@ -44,3 +42,9 @@ Pour tester les failles indiqués dans les ateliers, mettez-vous sur le niveau l
 Cliquer sur le bouton "DVWA Security" et choississez "Low", enregistrer.
 
 Il faut le refaire à chaque connexion.
+
+___
+
+## Remerciements
+
+Merci à l'équipe DVWA !
