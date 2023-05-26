@@ -32,7 +32,7 @@ ___
 ## Installation
 
 1. Cloner l'application sur votre serveur Apache localhost
-2. Créer une base "dvva" sur votre serveur local (MySql ou MariaDb) 
+2. Créer une base "dvwa" sur votre serveur local (MySql ou MariaDb) 
 3. Configurer l'accès au serveur de données dans le fichier config/config.inc.php
 4. Lancer l'application avec l'utilisateur "admin", mot de passe "password"
 5. Cliquer sur le bouton "Create / Reset Database"
